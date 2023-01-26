@@ -1,6 +1,27 @@
 @prototypes_data = [
   {
     name: 'First module / First prototype'
+  },
+  {
+    name: 'First oscillator'
+  },
+  {
+    name: 'HW1_screen'
+  },
+  {
+    name: 'Create buttons prototype'
+  },
+  {
+    name: 'React button'
+  },
+  {
+    name: 'HW2_slider'
+  },
+  {
+    name: 'Tone js'
+  },
+  {
+    name: 'my_synth'
   }
 ]
 
